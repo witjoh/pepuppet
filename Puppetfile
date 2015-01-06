@@ -15,3 +15,7 @@ mod 'roles',
 mod 'profiles',
   :git => 'git://github.com/witjoh/pepuppet-profiles'
 #  :ref => '3611ae4253ff01762f9bda1d93620edf8f9a3b22'
+
+# getting some hands on with tiny::puppet
+mod 'puppet-tp',
+  :git => 'https://github.com/example42/puppet-tp.git'
