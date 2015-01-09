@@ -1,7 +1,7 @@
 forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
-mod 'thias/libvirt'
+mod 'witjoh/libvirt'
 
 # Modules from Github using various references
 mod 'motd',
