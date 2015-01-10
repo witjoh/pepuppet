@@ -1,9 +1,11 @@
 forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
-mod 'witjoh/libvirt'
 
 # Modules from Github using various references
+mod 'libvirt',
+  :git => 'https://github.com/witjoh/libvirt.git',
+
 mod 'motd',
   :git => 'https://github.com/witjoh/motd.git',
   :ref => 'c63a09f9caabfee5f5a9393dd7380579fb06e1e5'
