@@ -4,7 +4,7 @@ forge "http://forge.puppetlabs.com"
 
 # Modules from Github using various references
 mod 'libvirt',
-  :git => 'https://github.com/witjoh/libvirt.git',
+  :git => 'https://github.com/witjoh/libvirt.git'
 
 mod 'motd',
   :git => 'https://github.com/witjoh/motd.git',
