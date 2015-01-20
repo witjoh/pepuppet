@@ -8,7 +8,8 @@ mod 'motd',
   :ref => 'c63a09f9caabfee5f5a9393dd7380579fb06e1e5'
 
 mod 'dyn_env',
-  :git => 'https://github.com/witjoh/dyn_env.git'
+  :git => 'https://github.com/witjoh/dyn_env.git',
+  :ref => 'master'
 
 #mod 'roles',
 #  :git => 'https://github.com/witjoh/pepuppet-roles.git'
