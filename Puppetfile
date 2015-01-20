@@ -9,7 +9,7 @@ mod 'motd',
 
 mod 'dyn_env',
   :git => 'https://github.com/witjoh/dyn_env.git',
-  :ref => 'master'
+  :ref => 'feature'
 
 #mod 'roles',
 #  :git => 'https://github.com/witjoh/pepuppet-roles.git'
